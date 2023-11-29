@@ -52,7 +52,7 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
+
 
 ### Name: S.Sajetha
 ### Register Number: 23006123
